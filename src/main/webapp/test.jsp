@@ -9,5 +9,6 @@
 <body>
 <% response.sendRedirect("https://www.naver.com"); %>
 테스트 내용입니다.
+
 </body>
 </html>
