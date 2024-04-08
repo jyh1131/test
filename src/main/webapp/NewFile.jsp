@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-호날두
+
 </body>
 </html>
